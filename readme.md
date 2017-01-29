@@ -1,3 +1,12 @@
+# Sobre este repositório
+<p>Em breve.</p>
+<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/desktop.jpg" width="95%" alt=""/>
+<br/>
+<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=""/>
+# Instalação
+Atenção! Não faça simplesmente o download dos arquivos do repositório para uma pasta local, isso não irá funcionar.
+Para instalar corretamente o projeto deste repositório siga os passos do Capítulo 4 do livro: XXX, de Ademir Gabardo.
+# Laravel PHP Framework
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
