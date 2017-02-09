@@ -1,5 +1,8 @@
 # Sobre este repositório
 <p>Em breve.</p>
+##Versão do framework usada nesses arquivos de exemplo: 5.4.10.
+
+A versão do framework usada para criar os arquivos desse repositório é a 5.4.10. Esse repositório foi portado do projeto do livro apresentado no repositório <a href='https://github.com/agabardo/ola-mundo'>5.2.4</a>. Antes de fazer o fork do projeto leia as notas de instalação nesse documento.
 <img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/desktop.jpg" width="95%" alt=""/>
 <br/>
 <img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=""/>
