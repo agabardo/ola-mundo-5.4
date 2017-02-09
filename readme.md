@@ -35,4 +35,4 @@ A Laravel é acessível, mas poderoso, fornecendo ferramentas necessárias para 
 
 
 ## Licença
-O framework Laravel é um software de código aberto licenciado por meio da [Licença MIT](http://opensource.org/licenses/MIT).
+O framework Laravel é um software de código aberto licenciado por meio da [Licença MIT](https://opensource.org/licenses/MIT).
