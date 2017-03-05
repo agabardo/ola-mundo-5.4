@@ -1,5 +1,9 @@
 # Sobre este repositório
-<p>Em breve.</p>
+<p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
+Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor ainda, deixe um comentário na <a href='https://novatec.com.br/autores/gabardo.php'>página do livro</a>.
+</p>
+<img width='60%' src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/Capa-laravel-para-ninjas.png" alt="Laravel para Ninjas - Ademir Gabardo, Novatec -2017"/>
+
 ##Versão do framework usada nesses arquivos de exemplo: 5.4.10.
 
 A versão do framework usada para criar os arquivos desse repositório é a 5.4.10. Esse repositório foi portado do projeto do livro apresentado no repositório <a href='https://github.com/agabardo/ola-mundo'>5.2.4</a>. Antes de fazer o fork do projeto leia as notas de instalação nesse documento.
