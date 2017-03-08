@@ -9,7 +9,7 @@ Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é pr
 Se você encontrar erros no código pode enviar para ademir.gabbardo(at)gmail.com.
 Obrigado e boa leitura.
 # Sobre este repositório
-<p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
+<p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017 - ISBN: 978-85-7522-550-9. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
 Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor ainda, deixe um comentário na <a href='https://novatec.com.br/autores/gabardo.php'>página do livro</a>.
 </p>
 <img width='60%' src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/Capa-laravel-para-ninjas.png" alt="Laravel para Ninjas - Ademir Gabardo, Novatec -2017"/>
