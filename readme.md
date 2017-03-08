@@ -1,6 +1,7 @@
 Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é provável que você seja um leitor do livro Laravel para Ninjas. Muito obrigado pela confiança. Espero que a leitura seja útil aos seus estudos. Se você achou o livro útil e gostaria de agradecer, tome uma (ou várias) das ações abaixo.
 
 <ul>
+<li>Referencie o livro Laravel para Ninjas em seus trabalhos acadêmicos.</li>
 <li>Escreva um comentário sobre o livro no <a href='https://novatec.com.br/autores/gabardo.php'>site da editora</a>.</li>
 <li>Marque o repositório com uma estrela.</li>
 <li>Adicione-me a sua rede de contatos do <a href='https://www.linkedin.com/in/ademirgabardo/'>Linkedin</a> e me endosse pelos conhecimentos em Laravel.</li>
@@ -8,6 +9,22 @@ Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é pr
 
 Se você encontrar erros no código pode enviar para ademir.gabbardo(at)gmail.com.
 Obrigado e boa leitura.
+
+##Como citar ou referenciar o livro Laravel para Ninjas:
+Estilo ABNT<br/>
+GABARDO, A. C.; Laravel para Ninjas. São Paulo: SP, 2017. 184 p.
+
+Estilo APA<br/>
+Gabardo, A. C. (2017). Laravel para Ninjas (Vol. 1). (R. Prates, Ed.) São Paulo, SP, Brasil: Novatec Editora Ltda.
+
+Estilo Chicago<br/>
+Gabardo, Ademir Cristiano. 2017. Laravel para Ninjas. Edited by Rubens Prates. Vol. 1. 1 vols. São Paulo, SP: Novatec Editora Ltda.
+
+Estilo IEEE<br/>
+[1] A. C. Gabardo, Laravel para Ninjas, vol. 1, R. Prates, Ed., São Paulo, SP: Novatec Editora Ltda., 2017, p. 184.
+
+Obs: nesse repositóio você encontra o arquivo <b>gabardoLaravel2017.bib</b> para uso em programas de referências.
+
 # Sobre este repositório
 <p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017 - ISBN: 978-85-7522-550-9. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
 Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor ainda, deixe um comentário na <a href='https://novatec.com.br/autores/gabardo.php'>página do livro</a>.
