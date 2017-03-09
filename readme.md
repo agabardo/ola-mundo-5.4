@@ -2,7 +2,7 @@ Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é pr
 
 <ul>
 <li>Referencie o livro Laravel para Ninjas em seus trabalhos acadêmicos.</li>
-<li>Escreva um comentário sobre o livro no <a href='https://novatec.com.br/autores/gabardo.php'>site da editora</a>.</li>
+<li>Escreva um comentário sobre o livro no <a href='https://novatec.com.br/livros/laravel-para-ninjas'>site da editora</a>.</li>
 <li>Marque o repositório com uma estrela.</li>
 <li>Adicione-me a sua rede de contatos do <a href='https://www.linkedin.com/in/ademirgabardo/'>Linkedin</a> e me endosse pelos conhecimentos em Laravel.</li>
 </ul>
