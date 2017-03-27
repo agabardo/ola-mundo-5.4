@@ -45,11 +45,11 @@ A versão do framework usada para criar os arquivos desse repositório é a 5.4.
 <br/>
 <img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=""/>
 
-#Instalação
+<strong>Instalação</strong><br/>
 Atenção! Não faça simplesmente o download dos arquivos do repositório para uma pasta local, isso não irá funcionar.
 Para instalar corretamente o projeto deste repositório siga os passos do Capítulo 4 do livro: XXX, de Ademir Gabardo.
-
-#Laravel PHP Framework
+<br/>
+<strong>Laravel PHP Framework</strong><br/>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
