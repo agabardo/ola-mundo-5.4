@@ -38,13 +38,18 @@ Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor 
 ##Versão do framework usada nesses arquivos de exemplo: 5.4.10.
 
 A versão do framework usada para criar os arquivos desse repositório é a 5.4.10. Esse repositório foi portado do projeto do livro apresentado no repositório <a href='https://github.com/agabardo/ola-mundo'>5.2.4</a>. Antes de fazer o fork do projeto leia as notas de instalação nesse documento.
+
+<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/deploy-amazon.jpg" alt=""/>
+<br/>
 <img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/desktop.jpg" width="95%" alt=""/>
 <br/>
 <img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=""/>
-# Instalação
+
+#Instalação
 Atenção! Não faça simplesmente o download dos arquivos do repositório para uma pasta local, isso não irá funcionar.
 Para instalar corretamente o projeto deste repositório siga os passos do Capítulo 4 do livro: XXX, de Ademir Gabardo.
-# Laravel PHP Framework
+
+#Laravel PHP Framework
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
