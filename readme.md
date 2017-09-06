@@ -1,3 +1,16 @@
+# Onde comprar?
+E-book:<br/>
+Amazon <a href='https://www.amazon.com.br/s/?search-alias=digital-text&field-keywords=9788575226063'>https://www.amazon.com.br/s/?search-alias=digital-text&field-keywords=9788575226063</a>
+<br/>Google Play <a href='https://play.google.com/store/search?q=9788575226063'>https://play.google.com/store/search?q=9788575226063</a>
+<br/>Kobo <a href='https://www.kobo.com/br/pt/ebook/laravel-para-ninjas'>https://www.kobo.com/br/pt/ebook/laravel-para-ninjas</a>
+<br/>Wook <a href='https://www.wook.pt/ebook/laravel-para-ninjas-ademir-c-gabardo/19868236'>https://www.wook.pt/ebook/laravel-para-ninjas-ademir-c-gabardo/19868236</a>
+<br/>iTunes <a href='https://itunes.apple.com/br/book/laravel-para-ninjas/id1279480006?mt=11'>https://itunes.apple.com/br/book/laravel-para-ninjas/id1279480006?mt=11</a>
+<br/>
+Livro físico:
+<br/>Novatec <a href='https://novatec.com.br/livros/laravel-para-ninjas/'>https://novatec.com.br/livros/laravel-para-ninjas/</a>
+<br/>
+
+# Sobre mim
 Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é provável que você seja um leitor do livro Laravel para Ninjas. Muito obrigado pela confiança. Espero que a leitura seja útil aos seus estudos. Se você achou o livro útil e gostaria de agradecer, tome uma (ou várias) das ações abaixo.
 
 <ul>
